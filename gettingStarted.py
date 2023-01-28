@@ -30,7 +30,7 @@ def welcome_assignment_answers(question):
         ### you should understand why this else case should be included
         ### what happens if there is a typo in one of the questions?
         ### maybe put something here to flag an issue
-        answer = "This else is important as we are expecting a return and if all of the above condition fails then it will not return anything , creating a bug in our program, also is i do a typo in one of the questions is get a 'Nameerror' basically it tells us that that you have typed the name wrong"
+        answer = "Nameerror"
     return (answer)
 
 
